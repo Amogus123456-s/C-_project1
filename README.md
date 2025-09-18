@@ -1,3 +1,3 @@
-# C-_projects
+# C#_projects
 
 My C# projects
